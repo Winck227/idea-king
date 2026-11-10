@@ -1,0 +1,21 @@
+{
+  "language": "auto",
+  "spawnAgents": true,
+  "crewSize": 5,
+  "theme": "atelier",
+  "background": "",
+  "heroBackground": "",
+  "accent": "#DC8B70",
+  "themeVars": {
+    "bg": "#EBF4F8",
+    "panel": "#ffffff",
+    "panel2": "#EBF4F8",
+    "line": "#7BBDB6",
+    "text": "#11616B",
+    "muted": "#4f8f94",
+    "accent": "#DC8B70",
+    "ok": "#7BBDB6",
+    "warn": "#DC8B70",
+    "bad": ""
+  }
+}
