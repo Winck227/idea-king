@@ -1,0 +1,17 @@
+{
+  "maple": {
+    "pageBg": "radial-gradient(1000px 480px at 10% -5%, #ff6b3d 0%, transparent 52%), linear-gradient(165deg, #2a140c 0%, #5a2818 45%, #3e1c12 100%)",
+    "heroBg": "linear-gradient(135deg, rgba(255,120,60,.42), transparent 48%), linear-gradient(160deg, #6a3018, #3a1810)",
+    "bg": "#2c160e",
+    "panel": "#4e281c",
+    "panel2": "#603224",
+    "line": "#8e5238",
+    "text": "#fff2e8",
+    "muted": "#e0b49c",
+    "accent": "#ff7a45",
+    "ok": "#7dcc8e",
+    "warn": "#ffc15e",
+    "bad": "#ff7d8a",
+    "shadow": "0 22px 50px rgba(40,12,6,.45)"
+  }
+}
